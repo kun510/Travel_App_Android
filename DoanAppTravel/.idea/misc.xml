@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable-tvdpi/cursor_color.xml" value="0.167" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable-tvdpi/rectangle.xml" value="0.129" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable-v24/custom_button.xml" value="0.167" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable-v24/custom_search_view.xml" value="0.167" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable-v24/ic_back_arrow.xml" value="0.167" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable-v24/ic_down_arrow.xml" value="0.167" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable-v24/ic_settings.xml" value="0.167" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable/boder.xml" value="0.267" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable/boderavt.xml" value="0.167" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable/gradient_bg.xml" value="0.253" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/drawable/khungvien.xml" value="0.267" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/font/rubik.xml" value="0.3" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_account.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_add_avt_user.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_admin_hotel.xml" value="0.264" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_all_booking.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_all_travel_da_nang.xml" value="0.22830269345874304" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_apiyotube.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_apiyotubebana.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_apiyoutube_caurong.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_apiyoutube_cvca.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_banahill.xml" value="0.38697916666666665" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_book_hotel.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_bookinghotel.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_change_password.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_dateil_banahill.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_dateil_cau_rong.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_dateil_cvca.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_dateil_hotel_da_nang.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_detail_top_places.xml" value="0.38697916666666665" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_flight.xml" value="0.22" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_flight_book.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_hotel.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_hotel_book.xml" value="0.30611372381359553" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_hotel_da_nang.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_insert_hotel.xml" value="0.30611372381359553" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_register.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_searchtravel.xml" value="0.22530996152201796" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_terms.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_test.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_tourist.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_tourist_cau_rong.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_tourist_cvca.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_update_admin.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/activity_weather.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/avt.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/content_test.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/fragment_explore.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/fragment_first.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/fragment_flight.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/fragment_hotel.xml" value="0.30611372381359553" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/fragment_main.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/fragment_second.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/item_adminhotel.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/item_flight.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/item_hotel.xml" value="0.3859375" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/item_hotel_dep.xml" value="0.38697916666666665" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/item_hotelbook.xml" value="0.31680205215904234" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/item_loading.xml" value="0.24728260869565216" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/item_recents.xml" value="0.2734375" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/layouttest.xml" value="0.3859375" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/recents_row_item.xml" value="0.264" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/selectlanguage.xml" value="0.31765711842667804" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/test.xml" value="0.31680205215904234" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/layout/top_places_row_item.xml" value="0.4" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/menu/intenmeunu.xml" value="0.27447916666666666" />
+        <entry key="..\:/hoctap/DoanAppTravel/app/src/main/res/menu/menubooking.xml" value="0.31765711842667804" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

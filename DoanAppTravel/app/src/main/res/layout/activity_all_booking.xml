@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/frag_home"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+      <LinearLayout
+          android:id="@+id/bookflighne"
+          android:background="@drawable/boder"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content">
+          <TextView
+              android:textSize="30dp"
+              android:gravity="center"
+              android:text="BOOK FLIGHT"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"/>
+      </LinearLayout>
+        <LinearLayout
+            android:id="@+id/bookhotel"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/boder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textSize="30dp"
+                android:gravity="center"
+                android:text="BOOK HOTEL"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+</LinearLayout>

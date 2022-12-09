@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/mainn"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_weight="3"
+        android:background="@drawable/home_bg"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <LinearLayout
+            android:layout_weight="5"
+            android:orientation="vertical"
+            android:layout_width="0dp"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="4"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/rubik"
+                android:text="@string/welcome"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="3"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:fontFamily="@font/rubik"
+                android:text="@string/timkiemdulich"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+            <EditText
+                android:layout_marginLeft="10dp"
+                android:id="@+id/findtxt"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="5"
+                android:layout_marginTop="16dp"
+                android:background="@drawable/search_bg"
+                android:drawableLeft="@drawable/ic_search_black_24dp"
+                android:drawablePadding="16dp"
+                android:ems="10"
+                android:paddingStart="16dp"
+                android:hint="@string/SearchDestinations"
+                android:layout_marginBottom="15dp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+
+        <ImageView
+            android:src="@drawable/profileeee"
+            android:background="@drawable/boderavt"
+            android:id="@+id/avt"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="64dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="16dp"
+             />
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_weight="11"
+        android:layout_height="0dp">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp">
+            <TextView
+                android:layout_marginLeft="10dp"
+                android:layout_weight="9.5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/Recent"
+                android:textColor="@color/black"/>
+            <TextView
+                android:layout_marginRight="10dp"
+                android:layout_width="0dp"
+                android:layout_weight="1.5"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_bold"
+                android:text="@string/SeeAll"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recent_recycler"
+            android:layout_width="match_parent"
+            android:layout_weight="8"
+            android:layout_height="0dp"/>
+
+        <TextView
+            android:gravity="center|left"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:layout_height="0dp"
+            android:paddingLeft="10dp"
+            android:fontFamily="@font/roboto_bold"
+            android:text="@string/TopPlaces"
+            android:textColor="@color/black"
+            android:background="@color/xamdam"
+            android:textSize="15sp" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/top_places_recycler"
+            android:layout_width="match_parent"
+            android:paddingTop="8dp"
+            android:background="@color/xanhduong"
+            android:layout_weight="8"
+            android:layout_height="0dp"/>
+
+
+    </LinearLayout>
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+
+      android:layout_gravity="bottom"
+        android:id="@+id/BottomMenu"
+        android:layout_width="match_parent"
+        android:layout_weight="1.2"
+        android:layout_height="0dp"
+        android:background="@color/timdep"
+        app:itemIconTint="@color/black"
+        app:itemTextColor="@color/black"
+        app:menu="@menu/intenmeunu">
+    </com.google.android.material.bottomnavigation.BottomNavigationView>
+
+
+
+</LinearLayout>

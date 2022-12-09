@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoanAppTravel</string>
+    <string name="terms" translatable="false">Terms &amp; condition</string>
+    <string name="selectlanguage">Select language</string>
+    <string name="version">Booking History</string>
+    <string name="logout">Logout</string>
+    <string name="changepass">change password</string>
+    <string name="backkk">Back</string>
+    <string name="profile">Profile</string>
+    <string name="home_menu">Home</string>
+    <string name="tour_menu">Tour</string>
+    <string name="Hotel_menu">Hotel</string>
+    <string name="final_menu" translatable="false">Travel search</string>
+    <string name="account_menu">Account</string>
+    <string name="welcome">Welcome</string>
+    <string name="timkiemdulich">Your Search Travel</string>
+    <string name="Recent">Recent</string>
+    <string name="SeeAll">See All</string>
+    <string name="TopPlaces">Top Places</string>
+    <string name="SearchDestinations" translatable="false">Search Destinations</string>
+    <string name="one">One</string>
+    <string name="View">View</string>
+    <string name="Worth" translatable="false">Worth</string>
+    <string name="ThousandWords" translatable="false">Thousand Words</string>
+    <string name="a">a</string>
+    <string name="find_tourist">Search</string>
+    <string name="BanaHills">Ba Na Hills</string>
+    <string name="Cvca" translatable="false">Asia Park</string>
+    <string name="asia" translatable="false">Asia Park</string>
+    <string name="typecongvienchaua">Call Asia Park \"the park of records\"          Because up to now, this place has the most convergence:          Queen Cobra – the largest suspension roller coaster in Vietnam with 5 continuous 360 turns on a height of 34m;          Golden Sky Tower - Top 2 highest free-falling towers in Vietnam with a height of 47 m, equivalent to the height of a 13-storey building…</string>
+    <string name="chitietcongvienchaua">On the first day of opening, Asia Park put Da Nang in the Guinness Book of World Records, with the Top 10 tallest Ferris wheel in the world 115m high (equivalent to a 25-storey building). From that height, Da Nang is beautiful in a spacious way with a wide view. The name \"Da Nang Vision\" probably comes from here</string>
+    <string name="congvienchaua">Located in the heart of the beautiful coastal city of Da Nang, Asia Park - Asia Park is a top destination for all tourists and locals. Visitors can enter the park for free every day from 15:00 to 22:00. This place is known as an amusement park with many modern games, a night market complex operated according to Korean standards, a culinary destination with many rich options. It is also impossible not to mention the program of events and art performances that attract thousands of attendees.</string>
+    <string name="bana">Da Nang Golden Bridge on top of Ba Na Hill</string>
+    <string name="cautayvang" translatable="false">Ba Na Hill Golden Bridge was inaugurated in June 2018. In just a short time, Danang Golden Bridge tours have attracted hundreds of thousands of visitors With a length of 150 meters and an altitude of 1414 meters. Compared to sea level, the Golden Bridge has created a path in the air, in the middle of a misty picture frame like a fairyland of Ba Na mountain.</string>
+    <string name="typeDN" translatable="false">Ba Na Hills was built on the top of Chua mountain, in Hoa Vang district, about 25 km southwest of Da Nang city center, at an altitude of 1487 m above sea level. This is the first mountain resort, which is likened to the \"Da Lat of the Central\" or the \"climate pearl\" of Vietnam.</string>
+    <string name="chitietDN">This is the first mountain resort, which is likened to the \"Da Lat of the Central\" or the \"climate pearl\" of Vietnam. Right from the first days of operation, the attraction of Ba Na Hiils has not changed. Known as a tourist destination with many beautiful places and many unique experiences, Ba Na becomes a frequented place for many Vietnamese and foreign tourists. Every year, this place welcomes millions of visitors. Due to the frequent investment in tourism, it is always in a state of \"sold-out tickets\" during the peak season.</string>
+    <string name="typecaurong">Night is the best time to see the Dragon Bridge. Attached 15 000 led lights, the bridge becomes a real dragon with shimmering color effects. Moreover, Dragon Bridge also attracts tourists by many events and performances at night.</string>
+    <string name="chitietcaurong">Dragon Bridge is the bridge with the most unique architecture in Vietnam, the shortest road connecting Da Nang International Airport with the main roads in the city. Not only acting as the lifeline of the city, the Dragon Bridge, with its architecture simulating a dragon of the Ly Dynasty reaching out to the sea, is one of the iconic architectures of Da Nang city.</string>
+    <string name="caurong">As the name suggests, Dragon Bridge with the shape of a dragon is 666m long and 37.5m wide across the Han River. With a cost of nearly 1.5 billion VND, the bridge has six lanes and was first opened to traffic on March 29, 2013 on the occasion of the 38th anniversary of the liberation of Da Nang city. If you do not know, the design of the Dragon Bridge is associated with the advancements in the history of the new architectural art of Da Nang city.</string>
+    <string name="caurongne">Dragon Bridge</string>
+    <string name="about">About</string>
+    <string name="VenueType">Venue Type</string>
+    <string name="TypeofView">Type of View</string>
+    <string name="banaduonglen" translatable="false">Ba Na Hills Road to Tien Canh</string>
+    <string name="dieukhoansudung">I.Terms of Use</string>
+    <string name="dieukhoan">YOU MUST READ THE TERMS OF USE BELOW BEFORE USING THIS SITE.         USE OF THIS SITE CONFIRMS AGREEMENT AND COMPLIANCE WITH THE TERMS AND CONDITIONS BELOW.         By accessing and/or using the Website www.traveloka.com/en-vn (“Site”), you acknowledge that you have read,         understand and agree to be bound by the Terms of Use set forth below and other terms and conditions         in connection with the Website, including but not limited to privacy terms and conditions and FAQs,         which form an integral part of these Terms of Use (“Terms”). You must be eighteen (18)         age or older to be authorized to use the Website.         Please note that we may change, amend, supplement and remove these Terms at any time without prior notice.         You must read these Terms periodically. By continuing to use this Website after such changes have been made to the Terms,         the visitor, user or Registered User (“you” or “User”) agrees and consents to such changes. If you use any service         our other services, your use is based on your acceptance of and compliance with the terms and conditions applicable to those services.         The provisions of these Terms of Use have been translated from the original English version, and are provided for your convenience. There may be some         difference between the English translation and the original, and in the event of any such discrepancy, such difference shall be deemed to be an error of translation and the English version.         shall prevail. If in doubt about the accuracy of the information contained in the translation, please refer to the English version.</string>
+</resources>

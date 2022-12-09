@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:id="@+id/Home"
+        android:title="@string/Hotel_menu"
+        android:icon="@drawable/home"
+        />
+    <item android:id="@+id/Tour"
+        android:title="@string/tour_menu"
+        android:icon="@drawable/tour"
+        />
+    <item android:id="@+id/Hotel"
+        android:title="@string/Hotel_menu"
+        android:icon="@drawable/hotel"
+        />
+<!--    <item android:id="@+id/Flight"-->
+<!--        android:title="Chuyến Bay"-->
+<!--        android:icon="@drawable/maybay"-->
+<!--        />-->
+    <item android:id="@+id/Flight"
+        android:title="@string/final_menu"
+        android:icon="@drawable/maybay"
+        />
+    <item android:id="@+id/Account"
+        android:title="@string/account_menu"
+        android:icon="@drawable/account"
+        />
+
+
+
+</menu>

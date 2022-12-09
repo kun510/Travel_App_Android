@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.hqsoft.esales.doanapptravel">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <queries>
+        <intent>
+            <action android:name="com.google.android.youtube.api.service.START" />
+        </intent>
+    </queries>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.DoanAppTravel"
+        tools:targetApi="31">
+        <activity
+            android:name=".UpdateAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".Weather"
+            android:exported="true"></activity>
+        <activity
+            android:name=".APIYoutubeCvca"
+            android:exported="false" />
+        <activity
+            android:name=".APIYoutubeCaurong"
+            android:exported="false" />
+        <activity
+            android:name=".AllTravelDaNang"
+            android:exported="false" />
+        <activity
+            android:name=".APIYotubebana"
+            android:exported="true" />
+        <activity
+            android:name=".BookHotel"
+            android:exported="false" />
+        <activity
+            android:name=".FlightBook"
+            android:exported="false" />
+        <activity
+            android:name=".Flight"
+            android:exported="true"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".AllBooking"
+            android:exported="true"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".Terms"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".ChangePassword"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".Account"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".InsertHotel"
+            android:exported="false" />
+        <activity
+            android:name=".AdminHotel"
+            android:exported="true" />
+        <activity
+            android:name=".SearchTravel"
+            android:exported="false" />
+        <activity
+            android:name=".Hotel"
+            android:exported="true" />
+        <activity
+            android:name=".DetailTopPlaces"
+            android:exported="false" />
+        <activity
+            android:name="com.hqsoft.esales.LoginJDBC.Login.Register"
+            android:exported="true" />
+        <activity
+            android:name="com.hqsoft.esales.LoginJDBC.Login.Login"
+            android:exported="true"
+            android:theme="@style/Theme.Design.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".DateilCVCA"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".TouristCVCA"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".DateilCauRong"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".TouristCauRong"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".DateilBaNa"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".TouristBaNa"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".Tourist"
+            android:exported="false"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Design.Light.NoActionBar" />
+    </application>
+
+</manifest>

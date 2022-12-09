@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/nenprofile"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/vietnam"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:src="@drawable/vn"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_weight="9"
+            android:layout_gravity="center"
+            android:text="Chọn Ngôn Ngữ Tiếng Việt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/tienganh"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:src="@drawable/nuocanh"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_weight="9"
+            android:layout_gravity="center"
+            android:text="Chọn Ngôn Ngữ Tiếng Anh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/nhatban"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:src="@drawable/nhatban"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_weight="9"
+            android:layout_gravity="center"
+            android:text="Chọn Ngôn Ngữ Tiếng Nhật"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/trungquoc"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+
+            android:padding="10dp"
+            android:layout_weight="1"
+            android:src="@drawable/trungquoc"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+        <TextView
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_weight="9"
+            android:layout_gravity="center"
+            android:text="Chọn Ngôn Ngữ Tiếng Trung"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</LinearLayout>

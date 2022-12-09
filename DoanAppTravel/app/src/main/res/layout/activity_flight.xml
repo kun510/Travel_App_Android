@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Flight">
+
+    <TextView
+        android:layout_weight="2"
+        android:text="Chọn Chuyến Bay"
+        android:textSize="30dp"
+        android:fontFamily="@font/rubik_medium"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/timdep"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="0dp"/>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_weight="1"
+        android:layout_marginLeft="5dp"
+        android:textSize="20dp"
+        android:text="Điểm Khởi Hành"
+        android:layout_marginBottom="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+
+    <RelativeLayout
+        android:layout_weight="3"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp">
+
+        <Spinner
+
+            android:id="@+id/spinner_diemkkhoihanh"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/boder"
+            android:backgroundTint="@color/timdep" />
+
+        <TextView
+            android:id="@+id/txtspinnerdiemkhoihanh"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_weight="1"
+        android:layout_marginLeft="5dp"
+        android:textSize="20dp"
+        android:text="Điểm Đến"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <RelativeLayout
+        android:layout_weight="3"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp">
+
+        <Spinner
+            android:id="@+id/spinner_diemden"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/boder"
+            android:backgroundTint="@color/timdep" />
+
+        <TextView
+            android:id="@+id/txtspinnerdiemden"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_weight="1"
+        android:layout_marginLeft="5dp"
+        android:textSize="20dp"
+        android:text="Ngày Đi"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+
+    <DatePicker
+        android:layout_weight="7"
+        android:layout_marginTop="-20dp"
+        android:id="@+id/ngaydi"
+        android:calendarViewShown="false"
+        android:datePickerMode="spinner"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <TextView
+        android:layout_weight="1"
+        android:layout_marginLeft="5dp"
+        android:textSize="20dp"
+        android:text="Số Hành Khách"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <RelativeLayout
+        android:layout_weight="3"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp">
+
+        <Spinner
+
+            android:id="@+id/spinner_sohanhkhach"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/boder"
+            android:backgroundTint="@color/timdep" />
+
+        <TextView
+            android:id="@+id/txtspinnersohanhkhach"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp" />
+
+
+    </RelativeLayout>
+    <TextView
+        android:layout_weight="1"
+        android:layout_marginLeft="5dp"
+        android:textSize="20dp"
+        android:text="Loại Ghế"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"/>
+    <RelativeLayout
+        android:layout_weight="3"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp">
+
+        <Spinner
+            android:id="@+id/spinner_loaighe"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/boder"
+            android:backgroundTint="@color/timdep" />
+
+        <TextView
+            android:id="@+id/txtspinnerloaighe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:textSize="20dp" />
+
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_weight="1.5"
+       android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_height="0dp">
+        <TextView
+            android:layout_marginStart="20dp"
+            android:layout_weight="1"
+            android:layout_marginLeft="5dp"
+            android:textSize="20dp"
+            android:text="Giá:"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:id="@+id/price_flight"
+            android:layout_weight="6"
+            android:layout_marginLeft="5dp"
+            android:textSize="20dp"
+            android:text="0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_weight="3"
+            android:layout_marginLeft="5dp"
+            android:textSize="20dp"
+            android:text="VND Vé/Người"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_weight="2.5"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <RelativeLayout
+            android:layout_marginLeft="15dp"
+            android:layout_weight="5"
+            android:layout_gravity="right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/back_flight"
+                android:layout_width="170dp"
+                android:layout_height="70dp"
+                android:text="Back"
+                android:textSize="20dp" />
+
+        </RelativeLayout>
+        <RelativeLayout
+            android:layout_weight="5"
+            android:layout_marginLeft="15dp"
+            android:layout_gravity="right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/chon_flight"
+                android:layout_width="170dp"
+                android:layout_height="70dp"
+                android:text="Chọn"
+                android:textSize="20dp" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>

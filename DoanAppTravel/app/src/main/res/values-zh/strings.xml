@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoanAppTravel</string>
+    <string name="terms">条款及条件（健康）状况</string>
+    <string name="selectlanguage">选择语言</string>
+    <string name="version">预订历史</string>
+    <string name="logout">登出</string>
+    <string name="changepass">更改密码</string>
+    <string name="backkk" translatable="false">背部</string>
+    <string name="profile">轮廓</string>
+    <string name="home_menu">主页</string>
+    <string name="tour_menu">旅游</string>
+    <string name="Hotel_menu">酒店</string>
+    <string name="final_menu">旅游搜索</string>
+    <string name="account_menu">帐户</string>
+    <string name="welcome">欢迎</string>
+    <string name="timkiemdulich">您的搜寻行程</string>
+    <string name="Recent">最近的</string>
+    <string name="SeeAll">看到所有</string>
+    <string name="TopPlaces">热门地点</string>
+    <string name="SearchDestinations">搜索目的地</string>
+    <string name="one">" 一些"</string>
+    <string name="View">" 看法"</string>
+    <string name="Worth">值得</string>
+    <string name="ThousandWords" translatable="false">千个字</string>
+    <string name="a">一</string>
+    <string name="find_tourist">搜索</string>
+    <string name="BanaHills">巴拿山</string>
+    <string name="Cvca">亚洲公园</string>
+    <string name="asia" translatable="false">亚洲公园</string>
+    <string name="typecongvienchaua">称亚洲公园为“唱片公园”           因为到目前为止，这个地方收敛最多：           Queen Cobra——越南最大的悬空过山车，在34m的高度上有5个连续的360度转弯；           Golden Sky Tower - 越南最高的 2 座自由落体塔，高度为 47 m，相当于 13 层楼的高度......</string>
+    <string name="chitietcongvienchaua">开业首日，亚洲公园将岘港载入吉尼斯世界纪录，世界最高摩天轮前10名高达115米（相当于25层楼）。 从那个高度看，岘港是美丽的，宽敞的，视野开阔。 “岘港远景”的名字大概就是从这里来的</string>
+    <string name="congvienchaua" translatable="false">亚洲公园 - 亚洲公园位于美丽的海滨城市岘港市中心，是所有游客和当地人的首选目的地。 游客每天15:00-22:00可免费入园。 这个地方被称为拥有许多现代游戏的游乐园，一个按照韩国标准经营的夜市，一个拥有许多丰富选择的美食目的地。 也不能不提吸引成千上万与会者的活动和艺术表演节目。</string>
+    <string name="bana">巴拿山上的岘港金桥</string>
+    <string name="cautayvang">巴拿山金桥于 2018 年 6 月落成。在短短的时间内，岘港金桥之旅吸引了数十万游客。全长 150 米，海拔 1414 米。与海平面相比，金桥在空中创造出一条通道，在云雾缭绕的画框中间，宛如巴拿山的仙境。</string>
+    <string name="typeDN">Ba Na Hills 位于 Hoa Vang 区的 Chua 山顶，距离岘港市中心西南约 25 公里，海拔 1487 米。 这是第一个山区度假村，被比作“中部大叻”或越南“气候明珠”。</string>
+    <string name="chitietDN">这是第一个山区度假村，被比作“中部大叻”或越南“气候明珠”。 从运营的第一天起，Ba Na Hiils 的吸引力就没有改变。 Ba Na以拥有许多美丽的地方，许多独特的体验而闻名的旅游胜地，成为许多越南和外国游客经常光顾的地方。 每年，这个地方都会迎来数以百万计的游客。 由于旅游投资频繁，旺季时常处于“门票售罄”状态。</string>
+    <string name="typecaurong">晚上是看龙桥的最佳时间。 附上15000个led灯，大桥变成了一条真正的龙，具有闪闪发光的色彩效果。 此外，龙桥晚上还以许多活动和表演吸引游客。</string>
+    <string name="chitietcaurong" translatable="false">龙桥是越南建筑最独特的桥梁。          是连接岘港国际机场和市内主要道路的最短路线。          龙桥不仅是城市的生命线，其建筑仿龙时代          Ly伸向大海，是岘港市的标志性建筑之一。</string>
+    <string name="caurong">顾名思义，龙桥长666米，宽37.5米，横跨汉江，呈龙形。 这座耗资近15亿越南盾的大桥有6条车道，于2013年3月29日在岘港市解放38周年之际首次通车。 如果你不知道，龙桥的设计与岘港市新建筑艺术的历史进步有关。</string>
+    <string name="caurongne" translatable="false">龙桥</string>
+    <string name="about">关于</string>
+    <string name="VenueType">场地类型</string>
+    <string name="TypeofView">视图类型</string>
+    <string name="banaduonglen" translatable="false">Ba Na Hills 路到 Tien Canh</string>
+    <string name="dieukhoansudung">一、使用条款</string>
+    <string name="dieukhoan">在使用本网站之前，您必须阅读以下使用条款。         使用本网站即表示同意并遵守以下条款和条件。         通过访问和/或使用网站 www.traveloka.com/en-vn（“网站”），您承认您已阅读，         理解并同意受以下使用条款和其他条款和条件的约束         与网站有关，包括但不限于隐私条款和条件以及常见问题解答，         构成这些使用条款（“条款”）不可分割的一部分。您必须年满十八 (18)         被授权使用本网站的年龄或以上。         请注意，我们可能随时更改、修改、补充和删除这些条款，恕不另行通知。         您必须定期阅读这些条款。在对条款进行此类更改后继续使用本网站，         访问者、用户或注册用户（“您”或“用户”）同意并同意此类更改。如果您使用任何服务         我们的其他服务，您的使用基于您接受并遵守适用于这些服务的条款和条件。         这些使用条款的规定已从原始英文版本翻译而来，为您提供方便。可能有一些         英文翻译与原文之间的差异，如果出现任何此类差异，则此类差异应被视为翻译与英文版本的错误。         为准。如果对翻译中所含信息的准确性有疑问，请参阅英文版本。</string>
+</resources>

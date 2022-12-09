@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DoanAppTravel</string>
+    <string name="terms">を日本語に翻訳する</string>
+    <string name="selectlanguage">言語の選択</string>
+    <string name="version">予約履歴</string>
+    <string name="logout">ログアウト</string>
+    <string name="changepass">パスワードを変更する</string>
+    <string name="backkk" translatable="false">戻る</string>
+    <string name="profile">プロフィール</string>
+    <string name="home_menu">ホームページ</string>
+    <string name="tour_menu">旅行</string>
+    <string name="Hotel_menu">ホテル</string>
+    <string name="final_menu">旅行検索</string>
+    <string name="account_menu">アカウント</string>
+    <string name="welcome">いらっしゃいませ</string>
+    <string name="timkiemdulich">あなたの検索旅行</string>
+    <string name="Recent">最近</string>
+    <string name="SeeAll">すべてを見る</string>
+    <string name="TopPlaces">トッププレイス</string>
+    <string name="SearchDestinations">目的地を検索</string>
+    <string name="one">一つ</string>
+    <string name="View">見る</string>
+    <string name="Worth" translatable="false">価値</string>
+    <string name="ThousandWords">千の言葉</string>
+    <string name="a">" ある"</string>
+    <string name="find_tourist">探す</string>
+    <string name="BanaHills">バナヒルズ</string>
+    <string name="Cvca" translatable="false">アジアパーク</string>
+    <string name="asia" translatable="false">アジアパーク</string>
+    <string name="typecongvienchaua">アジアパークを「記録の公園」と呼ぶ           これまでのところ、この場所が最も収束しているためです。           クイーン コブラ – 高さ 34 m で 5 回連続 360 回転するベトナム最大の吊り下げ式ジェット コースター。           ゴールデン スカイ タワー - 13 階建てのビルの高さに相当する 47 m の高さを持つ、ベトナムで最も高い 2 つの自由落下タワー…</string>
+    <string name="chitietcongvienchaua">開園初日、アジア パークは世界でトップ 10 に入る高さ 115 m (25 階建てのビルに相当) の観覧車で、ダナンをギネス世界記録に登録しました。 その高さから、ダナンは広々とした眺めで美しいです。 「ダナンビジョン」という名前はおそらくここから来ています</string>
+    <string name="congvienchaua">美しい海岸沿いの都市ダナンの中心部に位置するアジア パーク - アジア パークは、すべての観光客や地元の人々にとって最高の目的地です。 訪問者は、毎日15:00から22:00まで無料で入園できます。 この場所は、多くの現代的なゲームを備えた遊園地、韓国の基準に従って運営されているナイトマーケット複合施設、多くの豊富な選択肢がある料理の目的地として知られています. 何千人もの参加者を魅了するイベントやアート パフォーマンスのプログラムも見逃せません。</string>
+    <string name="bana" translatable="false">バナヒルの頂上にあるダナンゴールデンブリッジ</string>
+    <string name="cautayvang">バ ナ ヒル ゴールデン ブリッジは 2018 年 6 月に開通しました. ほんの短い時間で, ダナン ゴールデン ブリッジ ツアーは何十万人もの訪問者を魅了しました. 長さ 150 メートル、高度 1414 メートル. ゴールデン ブリッジは海抜に比べてバナ山の妖精の国のような霧の額縁の真ん中に、空中に道を作りました。</string>
+    <string name="typeDN" translatable="false">Ba Na Hills は、ダナン市の中心部から南西に約 25 km、海抜 1487 m のホア ヴァン地区にあるチュア山の頂上に建設されました。 「中部のダラット」やベトナムの「気候の真珠」に例えられる初の山岳リゾートです。</string>
+    <string name="chitietDN">「中部のダラット」やベトナムの「気候の真珠」に例えられる初の山岳リゾートです。 Ba Na Hiilsの魅力は、オープン当初から変わっていません。 多くの美しい場所、多くのユニークな体験を持つ観光地として知られているバナは、多くのベトナム人や外国人観光客が頻繁に訪れる場所になっています. 毎年、この場所には何百万人もの訪問者が訪れます。 観光への投資が頻繁に行われるため、ピークシーズンには常に「チケットが売り切れ」の状態になります。</string>
+    <string name="typecaurong">ドラゴンブリッジを見るのに最適な時間は夜です。 15,000 個の LED ライトを取り付けた橋は、きらめく色の効果で本物のドラゴンになります。 また、ドラゴンブリッジは夜のイベントやパフォーマンスも多く観光客を魅了しています。</string>
+    <string name="chitietcaurong">ドラゴン ブリッジは、ベトナムで最もユニークな建築様式の橋で、ダナン国際空港と市内の主要道路を結ぶ最短の道路です。 都市の生命線として機能するだけでなく、リー王朝のドラゴンが海に手を伸ばすことを模した建築を持つドラゴン ブリッジは、ダナン市の象徴的な建築物の 1 つです。</string>
+    <string name="caurong" translatable="false">龍の形をした龍橋は、その名の通り長さ666m、幅37.5mの漢江に架かる橋です。 ほぼ 15 億 VND の費用がかかり、橋には 6 車線があり、ダナン市の解放 38 周年を記念して 2013 年 3 月 29 日に初めて開通しました。 ご存じない方もいらっしゃるかもしれませんが、ドラゴン ブリッジのデザインは、ダナン市の新しい建築芸術の歴史の進歩に関連しています。</string>
+    <string name="caurongne">ドラゴンブリッジ</string>
+    <string name="about">約</string>
+    <string name="VenueType">会場タイプ</string>
+    <string name="TypeofView">ビューのタイプ</string>
+    <string name="banaduonglen">Ba Na Hills Road to Tien Canh</string>
+    <string name="dieukhoansudung">I.利用規約</string>
+    <string name="dieukhoan">このサイトを使用する前に、以下の使用条件を読む必要があります。         このサイトを使用すると、以下の利用規約に同意し、順守することが確認されます。         ウェブサイト www.traveloka.com/en-vn (「サイト」) にアクセスおよび/または使用することにより、お客様は以下を読んだことを認めるものとします。         以下に定める利用規約およびその他の利用規約を理解し、それに拘束されることに同意する         プライバシー条件およびよくある質問を含むがこれらに限定されない、ウェブサイトに関連して、         これらの利用規約（「規約」）の不可欠な部分を形成します。あなたは18歳でなければなりません         ウェブサイトを使用する権限がある年齢以上。         当社は、予告なしにいつでも本規約を変更、修正、補足、および削除する場合があることにご注意ください。         これらの条件を定期的に読む必要があります。かかる変更が本規約に加えられた後も本ウェブサイトを引き続き使用することにより、         訪問者、ユーザー、または登録ユーザー (「あなた」または「ユーザー」) は、そのような変更に同意し、同意します。何らかのサービスを利用する場合         当社の他のサービスの場合、お客様の使用は、それらのサービスに適用される利用規約に同意し、遵守することに基づいています。         これらの利用規約の条項は、元の英語版から翻訳されており、便宜のために提供されています。いくつかあるかもしれません         英訳と原本との差異、およびそのような不一致が発生した場合、そのような差異は翻訳と英語版の誤りとみなされるものとします。         勝つものとします。翻訳に含まれる情報の正確性に疑問がある場合は、英語版を参照してください。</string>
+</resources>

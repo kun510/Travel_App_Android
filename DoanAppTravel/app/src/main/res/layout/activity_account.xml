@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/background_profile"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgrountuyetvoi"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15.7dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="15.7dp"
+        android:orientation="vertical">
+
+
+        <FrameLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="680dp"
+            android:background="@drawable/backgroundtrang"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="550dp"
+
+                />
+
+
+            <LinearLayout
+                android:id="@+id/linear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="20.7dp">
+
+
+                <LinearLayout
+
+                    android:orientation="horizontal"
+                    android:padding="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <ImageView
+                        android:layout_gravity="center"
+                        android:layout_width="77dp"
+                        android:layout_height="77dp"
+                        android:src="@drawable/dreamteam" />
+                    <TextView
+                        android:layout_marginLeft="10dp"
+                        android:layout_gravity="center"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/poppins_semibold"
+                        android:text="@string/profile"
+                        android:textColor="#030303"
+                        android:textSize="31.3sp" />
+
+
+                </LinearLayout>
+            <LinearLayout
+                android:id="@+id/changepassall"
+                android:background="@drawable/boder"
+                android:layout_marginRight="30dp"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:padding="15dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_weight="8"
+                        android:layout_marginLeft="10dp"
+                        android:id="@+id/changepass"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:fontFamily="@font/poppins_regular"
+                        android:text="@string/changepass"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:textSize="18sp" />
+                    <ImageView
+                        android:layout_weight="1"
+                        android:src="@drawable/rightarrow"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"/>
+
+                </LinearLayout>
+            </LinearLayout>
+                <LinearLayout
+                    android:id="@+id/dieukhoan"
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/boder"
+                    android:layout_marginRight="30dp"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:padding="15dp"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_weight="8"
+                            android:layout_marginLeft="10dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/rubik"
+                            android:text="@string/terms"
+                            android:textStyle="bold"
+                            android:textColor="@color/black"
+                            android:textSize="18sp" />
+                        <ImageView
+                            android:layout_weight="1"
+                            android:src="@drawable/rightarrow"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/boder"
+                    android:layout_marginRight="30dp"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:id="@+id/chontieng"
+                        android:padding="15dp"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_weight="8"
+                            android:layout_marginLeft="10dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/rubik"
+                            android:text="@string/selectlanguage"
+                            android:textStyle="bold"
+                            android:textColor="@color/black"
+                            android:textSize="18sp" />
+                        <ImageView
+                            android:layout_weight="1"
+                            android:src="@drawable/rightarrow"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"/>
+
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:layout_marginTop="30dp"
+                    android:background="@drawable/boder"
+                    android:layout_marginRight="30dp"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:id="@+id/booking"
+                        android:padding="15dp"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <TextView
+                            android:layout_weight="8"
+                            android:layout_marginLeft="10dp"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="@font/rubik"
+                            android:text="@string/version"
+                            android:textStyle="bold"
+                            android:textColor="@color/black"
+                            android:textSize="18sp" />
+                        <ImageView
+                            android:layout_weight="1"
+                            android:src="@drawable/rightarrow"
+                            android:layout_width="20dp"
+                            android:layout_height="20dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="30dp"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <Button
+                    android:id="@+id/btn_back_profile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginRight="50dp"
+                    android:layout_weight="2"
+                    android:background="@drawable/khungvien"
+                    android:text="@string/backkk" />
+
+                <Button
+                    android:id="@+id/btn_logout_profile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/khungvien"
+                    android:layout_marginTop="50dp"
+                    android:layout_gravity="left"
+                    android:layout_weight="2"
+                    android:layout_marginRight="44.3dp"
+                    android:text="@string/logout"
+                    />
+
+            </LinearLayout>
+
+
+            </LinearLayout>
+
+
+
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

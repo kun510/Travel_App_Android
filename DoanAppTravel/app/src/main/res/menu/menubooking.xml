@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:id="@+id/Hotelbook"
+        android:title="@string/Hotel_menu"
+        android:icon="@drawable/hotel"
+        />
+        <item android:id="@+id/Flight"
+            android:title="Chuyến Bay"
+            android:icon="@drawable/maybay"
+            />
+
+
+
+
+</menu>
