@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".Flight">
+    tools:context=".flight.Flight">
 
     <TextView
         android:layout_weight="2"

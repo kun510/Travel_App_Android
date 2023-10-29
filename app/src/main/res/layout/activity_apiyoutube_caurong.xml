@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".APIYotubebana"
+    tools:context=".api.apiYoutube.APIYotubebana"
     android:orientation="vertical"
     >
     <com.google.android.youtube.player.YouTubePlayerView

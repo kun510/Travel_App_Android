@@ -1,0 +1,25 @@
+
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖÖ¤¤ıÿÿÿÿ
+f	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ¢ƒİ
+k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ËÄÿÿÿÿÿ
+C
+java:S16040"(Make this anonymous inner class a lambda(½Ü¿ƒøÿÿÿÿ
+C
+java:S1604="(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+>
+java:S1604’"(Make this anonymous inner class a lambda(–§º
+^
+java:S1659 "HDeclare "timehientai" and all following declarations on a separate line.(ªŞ
+c	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶’å–
+Z
+java:S1854o"?Remove this useless assignment to local variable "iconweather".(¥•¸®øÿÿÿÿ
+Q	java:S125A"<This block of commented-out lines of code should be removed.(ëååØ
+N
+java:S2130b"8Use "Long.parseLong" for this string-to-long conversion.(ş†ˆÙ
+K
+java:S1481o"0Remove this unused "iconweather" local variable.(¥•¸®øÿÿÿÿ
+V	java:S125q"<This block of commented-out lines of code should be removed.(ÏúØøÿÿÿÿ
+
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+i	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú±íÑúÿÿÿÿ
+lsecrets:S6705;"SMake sure this OpenWeatherMap key gets revoked, changed, and removed from the code.(ˆÏŒ¦

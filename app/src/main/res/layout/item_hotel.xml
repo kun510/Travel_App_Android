@@ -54,10 +54,5 @@
             android:layout_height="50dp"/>
 
             </LinearLayout>
-
-
-
-
-
-
+    
 </androidx.cardview.widget.CardView>

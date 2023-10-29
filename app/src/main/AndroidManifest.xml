@@ -23,63 +23,63 @@
         android:theme="@style/Theme.DoanAppTravel"
         tools:targetApi="31">
         <activity
-            android:name=".UpdateAdmin"
+            android:name=".admin.adminHotel.UpdateAdmin"
             android:exported="false" />
         <activity
-            android:name=".Weather"
+            android:name=".api.weather.Weather"
             android:exported="true"></activity>
         <activity
-            android:name=".APIYoutubeCvca"
+            android:name=".api.apiYoutube.APIYoutubeCvca"
             android:exported="false" />
         <activity
-            android:name=".APIYoutubeCaurong"
+            android:name=".api.apiYoutube.APIYoutubeCaurong"
             android:exported="false" />
         <activity
-            android:name=".AllTravelDaNang"
+            android:name=".booking.AllTravelDaNang"
             android:exported="false" />
         <activity
-            android:name=".APIYotubebana"
+            android:name=".api.apiYoutube.APIYotubebana"
             android:exported="true" />
         <activity
-            android:name=".BookHotel"
+            android:name=".booking.BookHotel"
             android:exported="false" />
         <activity
-            android:name=".FlightBook"
+            android:name=".flight.FlightBook"
             android:exported="false" />
         <activity
-            android:name=".Flight"
+            android:name=".flight.Flight"
             android:exported="true"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".AllBooking"
+            android:name=".booking.AllBooking"
             android:exported="true"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".Terms"
+            android:name=".placesTravel.Terms"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".ChangePassword"
+            android:name=".setUp_Profile.ChangePassword"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".Account"
+            android:name=".setUp_Profile.Account"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".InsertHotel"
+            android:name=".admin.adminHotel.InsertHotel"
             android:exported="false" />
         <activity
-            android:name=".AdminHotel"
+            android:name=".admin.adminHotel.AdminHotel"
             android:exported="true" />
         <activity
-            android:name=".SearchTravel"
+            android:name=".placesTravel.SearchTravel"
             android:exported="false" />
         <activity
-            android:name=".Hotel"
+            android:name=".hotel.Hotel"
             android:exported="true" />
         <activity
-            android:name=".DetailTopPlaces"
+            android:name=".placesTravel.DetailTopPlaces"
             android:exported="false" />
         <activity
             android:name="com.hqsoft.esales.LoginJDBC.Login.Register"
@@ -95,31 +95,31 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".DateilCVCA"
+            android:name=".congvienCA.DateilCVCA"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".TouristCVCA"
+            android:name=".congvienCA.TouristCVCA"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".DateilCauRong"
+            android:name=".caurong.DateilCauRong"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".TouristCauRong"
+            android:name=".caurong.TouristCauRong"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".DateilBaNa"
+            android:name=".bana.DateilBaNa"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".TouristBaNa"
+            android:name=".bana.TouristBaNa"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity
-            android:name=".Tourist"
+            android:name=".placesTravel.Tourist"
             android:exported="false"
             android:theme="@style/Theme.Design.Light.NoActionBar" />
         <activity

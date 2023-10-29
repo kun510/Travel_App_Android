@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ’Éà
+[
+java:S1659"EDeclare "database" and all following declarations on a separate line.(Ê¢œ¯
+H
+java:S4925 "-Remove this "Class.forName()", it is useless.(ˆ‚”äýÿÿÿÿ

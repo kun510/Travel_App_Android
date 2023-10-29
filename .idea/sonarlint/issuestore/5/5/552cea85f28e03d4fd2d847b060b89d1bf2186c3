@@ -1,0 +1,10 @@
+
+>
+java:S1604A"(Make this anonymous inner class a lambda(ú“Úå
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò×²Œûÿÿÿÿ8²îÔ·1
+D
+java:S3010".Remove this assignment of "topPlacesDataList".(‘ÿ¥Ü
+K
+java:S2209"5Change this instance-reference to a static reference.(‘ÿ¥Ü
+c
+java:S16597"HDeclare "countryName" and all following declarations on a separate line.(ÓÉşúÿÿÿÿ

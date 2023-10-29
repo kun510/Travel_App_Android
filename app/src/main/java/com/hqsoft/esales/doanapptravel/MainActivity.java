@@ -10,10 +10,18 @@ import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.Toast;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
+import com.hqsoft.esales.doanapptravel.flight.Flight;
+import com.hqsoft.esales.doanapptravel.hotel.Hotel;
+import com.hqsoft.esales.doanapptravel.placesTravel.RecentsAdapter;
+import com.hqsoft.esales.doanapptravel.placesTravel.RecentsData;
+import com.hqsoft.esales.doanapptravel.placesTravel.SearchTravel;
+import com.hqsoft.esales.doanapptravel.placesTravel.TopPlacesAdapter;
+import com.hqsoft.esales.doanapptravel.placesTravel.TopPlacesData;
+import com.hqsoft.esales.doanapptravel.placesTravel.Tourist;
+import com.hqsoft.esales.doanapptravel.setUp_Profile.Account;
 
 import java.util.ArrayList;
 import java.util.List;

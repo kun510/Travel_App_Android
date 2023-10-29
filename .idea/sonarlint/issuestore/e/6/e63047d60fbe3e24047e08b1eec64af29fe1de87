@@ -1,0 +1,43 @@
+
+>
+java:S1604+"(Make this anonymous inner class a lambda(¨‚¤ˆ
+C
+java:S16042"(Make this anonymous inner class a lambda(ÈÊÆ ÿÿÿÿÿ
+C
+java:S16049"(Make this anonymous inner class a lambda(’ˆĞÌùÿÿÿÿ
+>
+java:S1604L"(Make this anonymous inner class a lambda(„¶áæ
+>
+java:S1604R"(Make this anonymous inner class a lambda(×÷ş¯
+>
+java:S1604X"(Make this anonymous inner class a lambda(·°ì—
+>
+java:S1604^"(Make this anonymous inner class a lambda(¼ÇÄŸ
+>
+java:S1604@"(Make this anonymous inner class a lambda(š÷éÄ
+J
+java:S1604h"(Make this anonymous inner class a lambda(±¿º®şÿÿÿÿ8ÅáĞÔ·1
+J
+java:S1604o"(Make this anonymous inner class a lambda(àˆÁ§ùÿÿÿÿ8¯ÌÒÔ·1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ŸµÅ8¬ÛÔ·1
+p	java:S116"[Rename this field "username_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÃ¿ 
+l	java:S116"WRename this field "pass_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÃ¿ 
+m	java:S116"XRename this field "email_profile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÃ¿ 
+_
+java:S1659"IDeclare "pass_profile" and all following declarations on a separate line.(üÃ¿ 
+=
+java:S1659""Declare "back" on a separate line.(šìÅıÿÿÿÿ
+j
+java:S1659""NDeclare "changePasswordAll" and all following declarations on a separate line.(­À™8ÔáĞÔ·1
+`
+java:S1659G"EDeclare "tienganh" and all following declarations on a separate line.(õ«Öüÿÿÿÿ
+P
+java:S1117k":Rename "logout" which hides the field declared at line 27.(ºÑ³è
+D
+java:S1874|".Remove this use of "locale"; it is deprecated.(Œà€¦
+]
+java:S1874}";Remove this use of "updateConfiguration"; it is deprecated.(úÉÜ—ùÿÿÿÿ8¡÷ÌÔ·1
+j	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³û®J8¡÷ÌÔ·1
+p	java:S100ˆ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£¶•şÿÿÿÿ8¡÷ÌÔ·1
+D
+java:S1068".Remove this unused "connection" private field.(ÿ›ÅÒ

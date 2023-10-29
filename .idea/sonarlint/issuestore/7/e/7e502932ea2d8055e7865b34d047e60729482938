@@ -1,0 +1,35 @@
+
+C
+java:S1604*"(Make this anonymous inner class a lambda(Ä÷«Îúÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(îÆóÖ8ÅäçÔ·1
+q	java:S116"\Rename this field "second_back_arrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÚ¼Ò
+o	java:S116"ZRename this field "second_arrow_up" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÚ¼Ò
+l	java:S116"WRename this field "second_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¾„û
+o	java:S116"ZRename this field "second_subtitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¾„û
+t	java:S116"_Rename this field "second_rating_number" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¾„û
+u	java:S116"`Rename this field "second_rating_number2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¾„û
+l	java:S116"WRename this field "more_details" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¾„û
+u	java:S116"[Rename this field "second_ratingbar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øşëíÿÿÿÿÿ
+i	java:S116"TRename this field "from_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§›“
+j	java:S116"URename this field "from_right" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§›“
+k	java:S116"VRename this field "from_bottom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼§›“
+C
+java:S1659"-Declare "second_arrow_up" on a separate line.(âÚ¼Ò
+b
+java:S1659"LDeclare "second_subtitle" and all following declarations on a separate line.(±¾„û
+]
+java:S1659"GDeclare "from_right" and all following declarations on a separate line.(¼§›“
+R
+java:S18746"=Remove this use of "setSystemUiVisibility"; it is deprecated.(Ş„¾\
+Z
+java:S18748"DRemove this use of "SYSTEM_UI_FLAG_LAYOUT_STABLE"; it is deprecated.(¹üÃ„
+h
+java:S18749"MRemove this use of "SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION"; it is deprecated.(®Ü¢Òøÿÿÿÿ
+c
+java:S1874:"HRemove this use of "SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN"; it is deprecated.(¢÷¬ÿÿÿÿÿ
+a
+java:S1874;"FRemove this use of "SYSTEM_UI_FLAG_HIDE_NAVIGATION"; it is deprecated.(ßÓ›Ùüÿÿÿÿ
+\
+java:S1874<"ARemove this use of "SYSTEM_UI_FLAG_FULLSCREEN"; it is deprecated.(é•éàıÿÿÿÿ
+]
+java:S1874="GRemove this use of "SYSTEM_UI_FLAG_IMMERSIVE_STICKY"; it is deprecated.(Íêµ˜

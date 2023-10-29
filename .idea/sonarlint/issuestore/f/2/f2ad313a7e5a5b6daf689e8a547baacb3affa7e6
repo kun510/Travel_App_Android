@@ -1,0 +1,9 @@
+
+2
+java:S1643f"Use a StringBuilder instead.(Ğ¿Ç
+j
+java:S2095a"OUse try-with-resources or close this "InputStreamReader" in a "finally" clause.(Şñ‚şÿÿÿÿ
+h
+java:S2095`"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Æ”ÁÂûÿÿÿÿ
+D
+java:S1068".Remove this unused "connection" private field.(ÿ›ÅÒ

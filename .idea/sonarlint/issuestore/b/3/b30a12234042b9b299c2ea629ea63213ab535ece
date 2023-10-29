@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­“ş8Ÿ’âÔ·1
+m	java:S116"XRename this field "REQUEST_VIDEO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘•Òü
+l	java:S116"RRename this field "API_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úôö÷øÿÿÿÿ
+msecrets:S6334"OMake sure this Google API Key gets revoked, changed, and removed from the code.(Úôö÷øÿÿÿÿ

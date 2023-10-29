@@ -1,0 +1,9 @@
+
+a
+java:S1301<"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦
+g	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€¶âãûÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò×²Œûÿÿÿÿ8¯ŠîÔ·1
+C
+java:S1185'"(Remove this method to simply inherit it.(ı¤Ğüùÿÿÿÿ
+e
+java:S1874,"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(µÛÎ°üÿÿÿÿ

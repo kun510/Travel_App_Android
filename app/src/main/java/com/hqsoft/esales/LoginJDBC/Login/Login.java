@@ -6,10 +6,8 @@ import android.app.ActivityOptions;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.database.Cursor;
 import android.os.AsyncTask;
 import android.os.Bundle;
-import android.text.InputType;
 import android.text.method.HideReturnsTransformationMethod;
 import android.text.method.PasswordTransformationMethod;
 import android.util.Log;
@@ -29,16 +27,11 @@ import com.google.android.gms.common.api.ApiException;
 import com.google.android.gms.tasks.Task;
 import com.hqsoft.esales.LoginJDBC.Controller.JDBCController;
 import com.hqsoft.esales.LoginJDBC.Model.JDBCModel;
-import com.hqsoft.esales.doanapptravel.AdminHotel;
-import com.hqsoft.esales.doanapptravel.HotelModel;
+import com.hqsoft.esales.doanapptravel.admin.adminHotel.AdminHotel;
 import com.hqsoft.esales.doanapptravel.MainActivity;
 import com.hqsoft.esales.doanapptravel.R;
 
-import org.w3c.dom.Text;
-
-import java.io.FileInputStream;
 import java.io.FileOutputStream;
-import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.sql.Connection;
 import java.sql.ResultSet;

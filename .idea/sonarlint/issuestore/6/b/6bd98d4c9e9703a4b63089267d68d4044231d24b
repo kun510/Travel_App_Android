@@ -1,0 +1,21 @@
+
+>
+java:S1604."(Make this anonymous inner class a lambda(æ®Éï
+C
+java:S16046"(Make this anonymous inner class a lambda(ğ“ê¬øÿÿÿÿ
+g	java:S101b"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¶Ëºùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·’ûèıÿÿÿÿ
+\
+java:S1659"ADeclare "user" and all following declarations on a separate line.(°æ†¦úÿÿÿÿ
+E
+java:S1874P"/Remove this use of "execute"; it is deprecated.(øè×€
+L
+java:S1874b"1Remove this use of "AsyncTask"; it is deprecated.(Î¶Ëºùÿÿÿÿ
+`
+java:S1874h"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ
+e
+java:S1874m"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Œÿµºøÿÿÿÿ
+D
+java:S1068!".Remove this unused "connection" private field.(ÿ›ÅÒ
+?
+java:S1068'")Remove this unused "mAuth" private field.(ªĞ”’

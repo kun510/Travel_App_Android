@@ -1,0 +1,39 @@
+
+C
+java:S1604*"(Make this anonymous inner class a lambda(àˆÁ§ùÿÿÿÿ
+C
+java:S1604A"(Make this anonymous inner class a lambda(š²óÛüÿÿÿÿ
+>
+java:S1604H"(Make this anonymous inner class a lambda(Ä Óù
+C
+java:S1604O"(Make this anonymous inner class a lambda(¼³¤‹ûÿÿÿÿ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò×²Œûÿÿÿÿ8®ÙîÔ·1
+d	java:S116"ORename this field "BaNa" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÒ¼Û
+g	java:S116"RRename this field "Caurong" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÒ¼Û
+u	java:S116"[Rename this field "anim_from_button" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëœ·üûÿÿÿÿ
+r	java:S116"XRename this field "anim_from_top" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëœ·üûÿÿÿÿ
+s	java:S116"YRename this field "anim_from_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëœ·üûÿÿÿÿ
+Z
+java:S1659"DDeclare "Caurong" and all following declarations on a separate line.(œÒ¼Û
+=
+java:S1659""Declare "back" on a separate line.(üìºˆüÿÿÿÿ
+\
+java:S1659"FDeclare "textView2" and all following declarations on a separate line.(¤Ê¦ç
+e
+java:S1659"JDeclare "anim_from_top" and all following declarations on a separate line.(ëœ·üûÿÿÿÿ
+S
+java:S1117R"8Rename "cvca" which hides the field declared at line 22.(÷Ÿ×üÿÿÿÿ
+R
+java:S1874]"=Remove this use of "setSystemUiVisibility"; it is deprecated.(Ş„¾\
+Z
+java:S1874_"DRemove this use of "SYSTEM_UI_FLAG_LAYOUT_STABLE"; it is deprecated.(¹üÃ„
+h
+java:S1874`"MRemove this use of "SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION"; it is deprecated.(®Ü¢Òøÿÿÿÿ
+c
+java:S1874a"HRemove this use of "SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN"; it is deprecated.(¢÷¬ÿÿÿÿÿ
+a
+java:S1874b"FRemove this use of "SYSTEM_UI_FLAG_HIDE_NAVIGATION"; it is deprecated.(ßÓ›Ùüÿÿÿÿ
+\
+java:S1874c"ARemove this use of "SYSTEM_UI_FLAG_FULLSCREEN"; it is deprecated.(é•éàıÿÿÿÿ
+]
+java:S1874d"GRemove this use of "SYSTEM_UI_FLAG_IMMERSIVE_STICKY"; it is deprecated.(Íêµ˜

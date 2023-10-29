@@ -1,0 +1,52 @@
+
+k	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªä£úÿÿÿÿ
+C
+java:S1604C"(Make this anonymous inner class a lambda(¤¤Ğ¤øÿÿÿÿ
+>
+java:S1604Y"(Make this anonymous inner class a lambda(¬¼øº
+C
+java:S1604`"(Make this anonymous inner class a lambda(ğ“ê¬øÿÿÿÿ
+>
+java:S1604r"(Make this anonymous inner class a lambda(µËƒÚ
+>
+java:S1604"(Make this anonymous inner class a lambda(ø¸ƒğ
+D
+java:S1604"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604¯"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+D
+java:S1604Á"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+h	java:S101‡"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡Ù˜ÿøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·’ûèıÿÿÿÿ
+g
+java:S2095ğ"PUse try-with-resources or close this "OutputStreamWriter" in a "finally" clause.(¨Ëá
+c
+java:S2095«"GUse try-with-resources or close this "Statement" in a "finally" clause.(¢ê¸®ùÿÿÿÿ
+j
+java:S2095ï"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(«—’¯úÿÿÿÿ
+6
+java:S1659)" Declare "gg" on a separate line.(Ì•Š
+@
+java:S1659*"%Declare "txthide" on a separate line.(Ï€‰Óùÿÿÿÿ
+A
+java:S1659."&Declare "password" on a separate line.(ÅèÍ‹øÿÿÿÿ
+J
+java:S1874m"/Remove this use of "execute"; it is deprecated.( ğ°àûÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ËĞƒ
+
+java:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Œÿµºøÿÿÿÿ
+M
+java:S1874‡"1Remove this use of "AsyncTask"; it is deprecated.(¡Ù˜ÿøÿÿÿÿ
+a
+java:S1874"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ËĞƒ
+f
+java:S1874“"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Œÿµºøÿÿÿÿ
+U
+java:S1874Õ">Remove this use of "startActivityForResult"; it is deprecated.(Ù¥ø
+a
+java:S1874Ø"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ
+D
+java:S1068/".Remove this unused "connection" private field.(ÿ›ÅÒ

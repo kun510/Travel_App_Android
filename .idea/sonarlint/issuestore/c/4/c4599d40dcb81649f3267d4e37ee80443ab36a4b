@@ -1,0 +1,9 @@
+
+a
+java:S1301p"KReplace this "switch" statement by "if" statements to increase readability.(ºÓ©¦
+b
+java:S1854<"GRemove this useless assignment to local variable "linearLayoutManager".(Åà®Öúÿÿÿÿ
+S
+java:S1481<"8Remove this unused "linearLayoutManager" local variable.(Åà®Öúÿÿÿÿ
+D
+java:S1068#".Remove this unused "connection" private field.(ÿ›ÅÒ

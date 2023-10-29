@@ -1,0 +1,20 @@
+
+>
+java:S1604'"(Make this anonymous inner class a lambda(˜ðˆý
+o	java:S116"URename this field "down_arrow" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ý‚¨þÿÿÿÿ
+u	java:S116"[Rename this field "third_scrollview" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì¿‡éÿÿÿÿÿ
+p	java:S116"VRename this field "from_bottom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›…øÅþÿÿÿÿ
+R
+java:S18749"=Remove this use of "setSystemUiVisibility"; it is deprecated.(Þ„¾\
+Z
+java:S1874;"DRemove this use of "SYSTEM_UI_FLAG_LAYOUT_STABLE"; it is deprecated.(¹üÃ„
+h
+java:S1874<"MRemove this use of "SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION"; it is deprecated.(®Ü¢Òøÿÿÿÿ
+c
+java:S1874="HRemove this use of "SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN"; it is deprecated.(¢÷¬ÿÿÿÿÿ
+a
+java:S1874>"FRemove this use of "SYSTEM_UI_FLAG_HIDE_NAVIGATION"; it is deprecated.(ßÓ›Ùüÿÿÿÿ
+\
+java:S1874?"ARemove this use of "SYSTEM_UI_FLAG_FULLSCREEN"; it is deprecated.(é•éàýÿÿÿÿ
+]
+java:S1874@"GRemove this use of "SYSTEM_UI_FLAG_IMMERSIVE_STICKY"; it is deprecated.(Íêµ˜
